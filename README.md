@@ -4,7 +4,7 @@
 - 👣Databases - SQL Server, MySQL, PostgreSQL, MongoDB, SQLite.
 - 👣Web frameworks – Node.JS/ Express, Django, Flask
 - 👣Frontend libraries – React, Jquery.
-- 👣Cloud – Amazone AWS EC/ lighsail, IBM Kubernetes
+- 👣Cloud – Amazone AWS EC2/ lighsail, IBM Kubernetes
 - 👣GUI platforms – C#(for windows based applications), PyQT/ Tkinter(cross platform)
 
 
